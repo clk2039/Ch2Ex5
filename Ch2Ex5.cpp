@@ -1,6 +1,6 @@
 /*
 File Name: Ch2Ex5.cpp
-Github URL:
+Github URL: https://github.com/clk2039/Ch2Ex5.git
 Programmer: Kit Miller
 Date: September 2025
 Requirements: Create a program that will compute the average of these values, 28,32,37,24, and 33.
